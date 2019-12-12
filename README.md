@@ -27,7 +27,7 @@ help the research by validating the results.
 
 ## How to use the BCH incubator?
 Click the video to see the BCH Incubator in action:
-<https://youtu.be/L-FXqEd19P>
+<https://youtu.be/L-FXqEd19Pk>
 
 To sum up...
 1. Visit the incubator version of Better Code Hub at
