@@ -27,11 +27,11 @@ help the research by validating the results.
 
 ## How to use the BCH incubator?
 Click the video to see the BCH Incubator in action:
-[https://youtu.be/L-FXqEd19Pk]
+<https://youtu.be/L-FXqEd19P>
 
 To sum up...
 1. Visit the incubator version of Better Code Hub at
-   [https://incubator.sig.eu/TEST-SMELLS/]
+   <https://incubator.sig.eu/TEST-SMELLS/>
 1. Log in with your Github account and accept the two security scopes
    for the new GitHub OAuth app on first use.
 1. After running an analysis and clicking on the first guideline
@@ -40,7 +40,7 @@ To sum up...
 1. Please validate our detection of the test smells by providing
    feedback via an ultra short survey for each test smell finding.
 1. Don't forget to complete your user profile at
-   [https://incubator.sig.eu/TEST-SMELLS/user-profile], this will help
+   <https://incubator.sig.eu/TEST-SMELLS/user-profile>, this will help
    us understand your experience level.
 
 ## What's in it for you?
@@ -56,11 +56,11 @@ To sum up...
   to your GitHub profile and run the analysis on them. Some projects
   you could use:
  
-[https://github.com/spring-projects/spring-framework]
+<https://github.com/spring-projects/spring-framework>
 
-[https://github.com/ReactiveX/RxJava]
+<https://github.com/ReactiveX/RxJava>
 
-[https://github.com/mockito/mockito]
+<https://github.com/mockito/mockito>
 
 Thank you!
 
